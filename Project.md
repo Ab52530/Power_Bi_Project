@@ -35,9 +35,9 @@ This project is an interactive Sales Dashboard built using Power BI to analyze a
 ### 🔹 Visualizations Used
 - 📌 Donut Chart (Category-wise Sales)
 - 📌 Line Chart (Monthly Sales Trend)
-- 📌 Bar Chart (Profit by Sub-Category)
+- 📌 Column Chart (Profit by Sub-Category)
 - 📌 Funnel/Bar Chart (Region-wise Sales)
-- 📌 Column Chart (Sales by Year)
+- 📌 Waterfall Chart (Sales by Year)
 
 💡Looking for a custom dashboard? Let's connect 👨‍💻📈
 
